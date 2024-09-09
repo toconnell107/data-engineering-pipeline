@@ -1,0 +1,4 @@
+id,sensor_id,temperature_celsius,humidity_percentage,recorded_at
+1,1,22.5,60.1,2024-09-09 15:17:39
+2,2,23.0,61.2,2024-09-09 15:17:39
+3,3,21.8,59.0,2024-09-09 15:17:39
